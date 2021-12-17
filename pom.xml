@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.muhammedtopgul</groupId>
+    <artifactId>java-multithreading-and-concurrency</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <developers>
+        <developer>
+            <id>muhammed-topgul</id>
+            <name>Muhammed Topgul</name>
+            <email>muhammedtopgul.29@gmail.com</email>
+            <properties>
+                <github>https://github.com/muhammed-topgul</github>
+                <linkedin>https://www.linkedin.com/in/muhammed-topgul-557964185/</linkedin>
+            </properties>
+        </developer>
+    </developers>
+
+    <properties>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+    </properties>
+
+</project>
