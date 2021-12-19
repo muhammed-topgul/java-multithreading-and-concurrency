@@ -4,7 +4,7 @@ import static com.muhammedtopgul.util.Console.*;
 
 /**
  * @author muhammed-topgul
- * @since at 18.12.2021 01:41
+ * @since 18.12.2021 01:41
  */
 
 public class Main {

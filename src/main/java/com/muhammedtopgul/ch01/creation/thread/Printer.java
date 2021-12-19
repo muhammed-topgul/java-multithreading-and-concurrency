@@ -4,7 +4,7 @@ import static com.muhammedtopgul.util.Console.printPurple;
 
 /**
  * @author muhammed-topgul
- * @since at 18.12.2021 01:24
+ * @since 18.12.2021 01:24
  */
 
 public class Printer extends Thread {

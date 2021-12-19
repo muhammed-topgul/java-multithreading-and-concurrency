@@ -1,11 +1,10 @@
 package com.muhammedtopgul.ch01.creation.runnable;
 
-import static com.muhammedtopgul.util.Console.printPurple;
 import static com.muhammedtopgul.util.Console.printReset;
 
 /**
  * @author muhammed-topgul
- * @since at 18.12.2021 01:41
+ * @since 18.12.2021 01:41
  */
 
 public class Printer implements Runnable {

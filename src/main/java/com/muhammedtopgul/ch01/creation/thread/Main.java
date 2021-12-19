@@ -6,7 +6,7 @@ import static com.muhammedtopgul.util.Console.printRed;
 
 /**
  * @author muhammed-topgul
- * @since at 18.12.2021 01:28
+ * @since 18.12.2021 01:28
  */
 
 public class Main {

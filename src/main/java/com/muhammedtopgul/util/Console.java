@@ -2,7 +2,7 @@ package com.muhammedtopgul.util;
 
 /**
  * @author muhammed-topgul
- * @since at 18.12.2021 01:21
+ * @since 18.12.2021 01:21
  */
 
 public class Console {

@@ -2,7 +2,7 @@ package com.muhammedtopgul.ch01.synchronization;
 
 /**
  * @author muhammed-topgul
- * @since at 18.12.2021 02:07
+ * @since 18.12.2021 02:07
  */
 
 public class ThreadSafe {
