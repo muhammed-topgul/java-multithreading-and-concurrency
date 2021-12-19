@@ -10,7 +10,7 @@ import java.util.concurrent.TimeUnit;
  */
 
 public class Main {
-    private final Thread wakeUp = new Thread(new Student(Command.TURN_OFF_ALERT, 1));
+    private final Thread turnOffAlert = new Thread(new Student(Command.TURN_OFF_ALERT, 1));
     private final Thread makeBed = new Thread(new Student(Command.MAKE_BED, 2));
     private final Thread washFace = new Thread(new Student(Command.WASH_FACE, 3));
     private final Thread brushTeeth = new Thread(new Student(Command.BRUSH_TEETH, 4));
@@ -26,7 +26,7 @@ public class Main {
     public void runWithExecutorService() {
         ExecutorService executorService = Executors.newFixedThreadPool(2);
 
-        executorService.submit(wakeUp);
+        executorService.submit(turnOffAlert);
         executorService.submit(makeBed);
         executorService.submit(washFace);
         executorService.submit(brushTeeth);
@@ -42,7 +42,7 @@ public class Main {
     }
 
     public void runWithoutOrder() {
-        wakeUp.start();
+        turnOffAlert.start();
         makeBed.start();
         washFace.start();
         brushTeeth.start();
@@ -52,7 +52,7 @@ public class Main {
     public void runWithOrder() {
         try {
             // 1. step
-            wakeUp.start();
+            turnOffAlert.start();
             makeBed.start();
 
             makeBed.join();
