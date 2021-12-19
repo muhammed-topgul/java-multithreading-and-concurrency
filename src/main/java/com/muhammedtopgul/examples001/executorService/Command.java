@@ -1,4 +1,4 @@
-package com.muhammedtopgul.ch01.executorService;
+package com.muhammedtopgul.examples001.executorService;
 
 /**
  * @author muhammed-topgul

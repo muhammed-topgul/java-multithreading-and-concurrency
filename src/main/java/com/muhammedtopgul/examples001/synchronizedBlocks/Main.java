@@ -1,4 +1,4 @@
-package com.muhammedtopgul.ch01.synchronizedBlocks;
+package com.muhammedtopgul.examples001.synchronizedBlocks;
 
 /**
  * @author muhammed-topgul

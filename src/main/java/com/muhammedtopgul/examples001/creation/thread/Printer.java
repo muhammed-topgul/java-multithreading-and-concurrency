@@ -1,4 +1,4 @@
-package com.muhammedtopgul.ch01.creation.thread;
+package com.muhammedtopgul.examples001.creation.thread;
 
 import static com.muhammedtopgul.util.Console.printPurple;
 

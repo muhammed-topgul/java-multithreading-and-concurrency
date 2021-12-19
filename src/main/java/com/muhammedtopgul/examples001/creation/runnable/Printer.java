@@ -1,4 +1,4 @@
-package com.muhammedtopgul.ch01.creation.runnable;
+package com.muhammedtopgul.examples001.creation.runnable;
 
 import static com.muhammedtopgul.util.Console.printReset;
 

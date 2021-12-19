@@ -1,4 +1,4 @@
-package com.muhammedtopgul.ch01.executorService;
+package com.muhammedtopgul.examples001.executorService;
 
 import static com.muhammedtopgul.util.Console.printBlue;
 import static com.muhammedtopgul.util.Console.printYellow;

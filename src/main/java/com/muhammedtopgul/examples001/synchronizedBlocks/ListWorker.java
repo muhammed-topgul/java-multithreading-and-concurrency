@@ -1,4 +1,4 @@
-package com.muhammedtopgul.ch01.synchronizedBlocks;
+package com.muhammedtopgul.examples001.synchronizedBlocks;
 
 import java.util.ArrayList;
 import java.util.List;

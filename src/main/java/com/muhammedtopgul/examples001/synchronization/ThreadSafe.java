@@ -1,4 +1,4 @@
-package com.muhammedtopgul.ch01.synchronization;
+package com.muhammedtopgul.examples001.synchronization;
 
 /**
  * @author muhammed-topgul
