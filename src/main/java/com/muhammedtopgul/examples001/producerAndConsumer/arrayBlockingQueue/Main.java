@@ -1,4 +1,6 @@
-package com.muhammedtopgul.examples001.producerAndConsumer;
+package com.muhammedtopgul.examples001.producerAndConsumer.arrayBlockingQueue;
+
+import com.muhammedtopgul.examples001.producerAndConsumer.arrayBlockingQueue.ProducerConsumer;
 
 /**
  * @author muhammed-topgul

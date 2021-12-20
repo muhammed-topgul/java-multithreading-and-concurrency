@@ -1,4 +1,4 @@
-package com.muhammedtopgul.examples001.producerAndConsumer;
+package com.muhammedtopgul.examples001.producerAndConsumer.arrayBlockingQueue;
 
 import java.util.Random;
 import java.util.concurrent.ArrayBlockingQueue;
